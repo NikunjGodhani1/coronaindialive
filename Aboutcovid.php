@@ -4,7 +4,6 @@
 <head>
     <?php include 'link/links.php'; ?>
     <?php include 'css/style.php'; ?>
-    <script src="myscripts.js"></script>
 </head>
 
 <body>
