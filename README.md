@@ -2,8 +2,6 @@
 
 An ongoing repository of data on coronavirus cases and deaths in the INDIA
 
-To view a project frontEnd check out an Issues tab
-
 ![SS1](https://user-images.githubusercontent.com/85859991/125569162-e53efda8-cce0-4cfd-b08b-bfd4b2e49a48.JPG)
 ![SS2](https://user-images.githubusercontent.com/85859991/125569199-d2e41278-2b5e-4eee-83e5-3c687be63175.JPG)
 ![SS3](https://user-images.githubusercontent.com/85859991/125569203-ecc163fc-abff-4630-a513-3c413f766203.JPG)
